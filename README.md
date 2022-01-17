@@ -1,6 +1,4 @@
-- Hi! I'm Merlin Hernandez
-- I'm currently a CS50 student.
-- 📫 How to reach me ...
+Hello world! My name is Merlin and I'm currently a cs50 student.
 
 <!---
 MerlinHdz/MerlinHdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
