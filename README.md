@@ -1,4 +1,5 @@
-Hello world! My name is Merlin and I'm currently a cs50 student.
+I'm currently a student at Austin Community College, completing my Associate's Degree in Computer Science.
+
 
 <!---
 MerlinHdz/MerlinHdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
